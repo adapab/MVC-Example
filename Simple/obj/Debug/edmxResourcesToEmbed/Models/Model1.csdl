@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Data" EntityType="Database1Model.Datum" />
+  </EntityContainer>
+  <EntityType Name="Datum">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Todo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Sort" Type="Int32" Nullable="false" />
+  </EntityType>
+</Schema>

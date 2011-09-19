@@ -1,0 +1,7 @@
+F:\Bala\Backbone Examples\Simple\Simple\bin\Simple.dll
+F:\Bala\Backbone Examples\Simple\Simple\bin\Simple.pdb
+F:\Bala\Backbone Examples\Simple\Simple\bin\EntityFramework.dll
+F:\Bala\Backbone Examples\Simple\Simple\bin\EntityFramework.xml
+F:\Bala\Backbone Examples\Simple\Simple\obj\Debug\ResolveAssemblyReference.cache
+F:\Bala\Backbone Examples\Simple\Simple\obj\Debug\Simple.dll
+F:\Bala\Backbone Examples\Simple\Simple\obj\Debug\Simple.pdb
